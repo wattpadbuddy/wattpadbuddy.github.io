@@ -1,0 +1,10 @@
+@font-face {
+   font-family: 'Arial-Rounded-MT-Bold-Font';
+   font-display: swap;
+   src: url('Arial-Rounded-MT-Bold-Font/font.zip');
+}
+@font-face {
+   font-family: 'lucida-calligraphy';
+   font-display: swap;
+   src: url('lucida-calligraphy/font.zip');
+}
